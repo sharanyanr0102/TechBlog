@@ -4,6 +4,10 @@ public class Waste1 {
 
 	public static void main(String[] args) {
 		System.out.println("Waste1");
+		System.out.println("Waste1");
+		System.out.println("Waste1");
+		System.out.println("Waste1");
+		System.out.println("Waste1");
 	}
 
 }
